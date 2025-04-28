@@ -1,19 +1,3 @@
 ## Object Tracking with custom model with help of DEEPSORT
 
-<video controls src="Object_Tracking" title="Title"></video>
-
-
-
-https://github.com/user-attachments/assets/defac356-dee0-4ad9-bec4-24547d34490c
-
-
-
-
-
-
-
-
-```This video on other model  ```
-
-https://github.com/user-attachments/assets/bb5c4ac7-f166-4c42-b375-c1dff4317443
-
+![Screenshot 2025-04-28 153844](https://github.com/user-attachments/assets/13b511fc-f7c6-4902-9129-57113fdb1d22)
